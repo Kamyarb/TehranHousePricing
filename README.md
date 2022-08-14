@@ -14,12 +14,13 @@ Each row represents the information of a house in an apartment.
 
 
 
+![image](https://user-images.githubusercontent.com/100142624/184538196-eeb7f749-216b-49c8-ab38-0d9f10a6211e.png)
 
 
-The best parameters for XGBRegressor model is: {'colsample_bytree': 0.65, 'gamma': 0, 'learning_rate': 0.05, 'max_depth': 11, 'n_estimators': 200, 'subsample': 0.75}
+The best parameters for XGBRegressor model is: {'colsample_bytree': 0.65, 'learning_rate': 0.05, 'max_depth': 9, 'n_estimators': 100, 'subsample': 0.6}
 --------------------
-(R2 score) in the training set is 98.43% for XGBRegressor model.
-(R2 score) in the testing set is 87.52% for XGBRegressor model.
-RMSE is 1,134,087,868.72916 for XGBRegressor model.
+(R2 score) in the training set is 96.48% for XGBRegressor model.
+(R2 score) in the testing set is 91.21% for XGBRegressor model.
+RMSE is 1,218,507,089.0819008 for XGBRegressor model.
 --------------------
-Runtime of the program is: 11.49
+Runtime of the program is: 6.31

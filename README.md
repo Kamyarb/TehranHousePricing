@@ -24,3 +24,6 @@ The best parameters for XGBRegressor model is: {'colsample_bytree': 0.65, 'learn
 RMSE is 1,218,507,089.0819008 for XGBRegressor model.
 --------------------
 Runtime of the program is: 6.31
+
+
+![image](https://user-images.githubusercontent.com/100142624/184543837-c42a2925-02ff-4b21-a931-5e01220ef0a8.png)
